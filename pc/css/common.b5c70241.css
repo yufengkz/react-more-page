@@ -1,1 +1,15 @@
-.cont .top{color:#ff9302}.cont .top .logo{display:inline-block;width:200px;height:100px;background-image:url(/static/pc/dance.9484ef73.gif);background-size:contain}.cont .bottom{color:#f00000}
+.cont .top {
+    color: #ff9302
+}
+
+.cont .top .logo {
+    display: inline-block;
+    width: 200px;
+    height: 100px;
+    background-image: url(/static/pc/dance.9484ef73.gif);
+    background-size: contain
+}
+
+.cont .bottom {
+    color: #f00000
+}
